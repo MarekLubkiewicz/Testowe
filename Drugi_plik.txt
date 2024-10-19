@@ -2,3 +2,5 @@ Drugi plik testowy.
 Jest to pierwsza wersja drugiego pliku.
 
 Druga wersja drugiego pliku testowego.
+
+Trzecia wersja drugiego pliku testowego.
