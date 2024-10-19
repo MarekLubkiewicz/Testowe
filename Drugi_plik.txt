@@ -1,0 +1,2 @@
+Drugi plik testowy.
+Jest to pierwsza wersja drugiego pliku.
