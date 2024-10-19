@@ -5,3 +5,4 @@ Druga wersja trzeciego pliku testowego.
 
 Trzecia wersja trzeciego pliku testowego.
 Zmiana zdalna.
+xxx
