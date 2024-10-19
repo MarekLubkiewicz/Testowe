@@ -1,0 +1,3 @@
+Pierwsza wersja pierwszego pliku testowego.
+
+Szkoda że w plikach tekstowych nie działa lorem ipsem.
