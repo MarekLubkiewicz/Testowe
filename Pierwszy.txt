@@ -1,3 +1,5 @@
 Pierwsza wersja pierwszego pliku testowego.
 
 Szkoda że w plikach tekstowych nie działa lorem ipsem.
+
+Druga wersja pierwszego pliku testowego.
